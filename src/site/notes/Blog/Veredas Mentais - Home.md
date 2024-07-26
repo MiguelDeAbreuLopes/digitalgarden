@@ -3,9 +3,12 @@
 ---
 
 ---
+
 ## Olá caro amigo.
 
-Bem-vindo ao meu recanto de pensamentos profundos e reflexões. Aqui você encontrará uma coletânea de escritos, imagens e ideias, todos cuidadosamente organizados para inspirar e provocar introspecção. Espero que se divirta-se descobrindo novos pontos de vista.
+> [!info] 
+> 
+> Bem-vindo ao meu recanto de pensamentos profundos e reflexões. Aqui você encontrará uma coletânea de escritos, imagens e ideias, todos cuidadosamente organizados para inspirar e provocar introspecção. Espero que se divirta-se descobrindo novos pontos de vista.
 
 ---
 
