@@ -10,7 +10,7 @@
 ---
 
 # Em mundo de pessoas vazias, uma rotina é o pior inimigo.
-<font color="#7f7f7f">quarta-feira, 17 de julho de 2024 às 22:46</font>
+<font color="#7f7f7f">quinta-feira, 25 de junho de 2024 às 17:46</font>
 
 Tag: [[200 - Tags/Mental\|Mental]] - [[200 - Tags/Alienação\|Alienação]]
 

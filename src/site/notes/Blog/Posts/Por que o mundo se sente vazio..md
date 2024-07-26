@@ -4,7 +4,7 @@
 
 ---
 # Por que o mundo se sente vazio.
-<font color="#7f7f7f">quarta-feira, 17 de julho de 2024 às 22:56</font>
+<font color="#7f7f7f">quarta-feira, 10 de julho de 2024 às 9:56</font>
 
 Tag: [[200 - Tags/Vazio Existencial\|Vazio Existencial]] - [[200 - Tags/Sociedade\|Sociedade]]
 
