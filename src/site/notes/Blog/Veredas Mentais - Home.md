@@ -80,3 +80,6 @@ Para qualquer comentário, sugestão ou simplesmente para trocar ideias, sinta-s
 - miguelablp@gmail.com
 
 ---
+
+
+https://veredasmentais.netlify.app/
