@@ -12,7 +12,7 @@
 # Teologia da Libertação
 <font color="#7f7f7f">quarta-feira, 3 de julho de 2024 às 21:14</font>
 
-Tag: [[200 - Tags/Religião\|Religião]]
+Tag: #religão
 
 ---
 

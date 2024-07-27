@@ -10,9 +10,9 @@
 ---
 
 # Democracia não é justa
-<font color="#7f7f7f">quarta-feira, 17 de julho de 2024 às 21:46</font>
+<font color="#7f7f7f">quinta-feira, 18 de julho de 2024 às 21:46</font>
 
-Tag: [[200 - Tags/Justiça\|Justiça]] - [[200 - Tags/Democracia\|Democracia]]
+Tag: #Justiça #Democracia
 
 ---
 

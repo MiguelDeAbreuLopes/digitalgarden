@@ -10,9 +10,9 @@
 ---
 
 # A Sociedade Controla a Si Mesma.
-<font color="#7f7f7f">quarta-feira, 17 de julho de 2024 às 15:40</font>
+<font color="#7f7f7f">terça-feira, 16 de julho de 2024 às 15:40</font>
 
-Tag: [[200 - Tags/Sociedade\|Sociedade]] - [[200 - Tags/Controle\|Controle]]
+Tag: #Sociedade #Controle
 
 ---
 

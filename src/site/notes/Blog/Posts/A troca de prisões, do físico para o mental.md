@@ -10,9 +10,9 @@
 ---
 
 # A troca de prisões, do físico para o mental
-<font color="#7f7f7f">quarta-feira, 17 de julho de 2024 às 21:44</font>
+<font color="#7f7f7f">quarta-feira, 2 de julho de 2024 às 21:44</font>
 
-Tag: [[200 - Tags/Controle\|Controle]] - [[200 - Tags/Mental\|Mental]]
+Tag: #Controle #Mental
 
 ---
 

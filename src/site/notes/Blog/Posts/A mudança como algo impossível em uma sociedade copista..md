@@ -10,9 +10,9 @@
 ---
 
 # A mudança como algo impossível em uma sociedade copista.
-<font color="#7f7f7f">quarta-feira, 17 de julho de 2024 às 15:31</font>
+<font color="#7f7f7f">quarta-feira, 4 de julho de 2024 às 15:31</font>
 
-Tag: [[200 - Tags/Identidade\|Identidade]] - [[200 - Tags/Sociedade\|Sociedade]]
+Tag: #Identidade #Sociedade
 
 ---
 

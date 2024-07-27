@@ -12,7 +12,7 @@
 # A Identidade e seus Hábitos
 <font color="#7f7f7f">quarta-feira, 17 de julho de 2024 às 11:51</font>
 
-Tag: [[200 - Tags/Identidade\|Identidade]] 
+Tag: #Identidade
 
 ---
 
