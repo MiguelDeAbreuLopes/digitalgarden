@@ -78,5 +78,3 @@ Para qualquer comentário, sugestão ou simplesmente para trocar ideias, sinta-s
 [veredasmentais.netlify.app](https://veredasmentais.netlify.app/)
 
 ---
-
-[[Blog/Teste\|Teste]]
