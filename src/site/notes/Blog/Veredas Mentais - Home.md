@@ -83,4 +83,5 @@ Para qualquer comentário, sugestão ou simplesmente para trocar ideias, sinta-s
 
 
 https://veredasmentais.netlify.app/
-[[Blog/Estante/Sem título 1\|Sem título 1]]
+
+[[Blog/Testes\|Testes]]
