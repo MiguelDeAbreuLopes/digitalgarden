@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/estante/sem-titulo-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/blog/estante/sem-titulo-1/","contentClasses":"list-cards","noteIcon":""}
 ---
 
 - [[Blog/Veredas Mentais - Home\|Veredas Mentais - Home]]
