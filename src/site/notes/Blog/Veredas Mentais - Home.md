@@ -15,7 +15,7 @@
 ---
 ## O que seria Veredas Mentais?
 
-Veredas mentais são todos os caminhos que uma mente faz. Pois bem, aqui está todas as minha veredas.
+Veredas mentais são todos os caminhos que uma mente faz. Pois bem, aqui estão todas as minha veredas.
 
 ---
 
@@ -44,3 +44,5 @@ Para qualquer comentário, sugestão ou simplesmente para trocar ideias, sinta-s
 🌐 [veredasmentais.netlify.app](https://veredasmentais.netlify.app/)
 
 ---
+
+[[Testes\|Testes]]
