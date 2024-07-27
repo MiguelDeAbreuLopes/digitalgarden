@@ -18,17 +18,17 @@ Claro! Vamos dar um toque mais refinado e atrativo à sua homepage:
 
 
 
-| **Títulos**                                                                                                                       | Data                | Tags                         |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------- |
-| [[Blog/Posts/Democracia não é justa\|Democracia não é justa]]                                                                     | 18 de julho de 2024 | #Justiça #Democracia         |
-| [[Blog/Posts/A Identidade e seus Hábitos\|A Identidade e seus Hábitos]]                                                           | 17 de julho de 2024 | #Identidade                  |
-| [[Blog/Posts/A Sociedade Controla a Si Mesma.\|A Sociedade Controla a Si Mesma.]]                                                 | 17 de julho de 2024 | #Sociedade #Controle         |
-| [[Blog/Posts/A Massa de Manobra na Democracia\|A Massa de Manobra na Democracia]]                                                 | 13 de julho de 2024 | #Democracia #Cultura         |
-| [[Blog/Posts/Por que o mundo se sente vazio.\|Por que o mundo se sente vazio.]]                                                   | 10 de julho de 2024 | #Vazio-Existencial#Sociedade |
-| [[Blog/Posts/A mudança como algo impossível em uma sociedade copista.\|A mudança como algo impossível em uma sociedade copista.]] | 4 de julho de 2024  | #Identidade #Sociedade       |
-| [[Blog/Posts/Teologia da Libertação\|Teologia da Libertação]]                                                                     | 3 de julho de 2024  | #religão                     |
-| [[Blog/Posts/A troca de prisões, do físico para o mental\|A troca de prisões, do físico para o mental]]                           | 2 de julho de 2024  | #Controle #Mental            |
-| [[Blog/Posts/Em mundo de pessoas vazias, uma rotina é o pior inimigo.\|Em mundo de pessoas vazias, uma rotina é o pior inimigo.]] | 25 de junho de 2024 | #Mental #Alienação           |
+| **Títulos**                                                                                                                       | Tags                         |
+| --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[Blog/Posts/Democracia não é justa\|Democracia não é justa]]                                                                     | #Justiça #Democracia         |
+| [[Blog/Posts/A Identidade e seus Hábitos\|A Identidade e seus Hábitos]]                                                           | #Identidade                  |
+| [[Blog/Posts/A Sociedade Controla a Si Mesma.\|A Sociedade Controla a Si Mesma.]]                                                 | #Sociedade #Controle         |
+| [[Blog/Posts/A Massa de Manobra na Democracia\|A Massa de Manobra na Democracia]]                                                 | #Democracia #Cultura         |
+| [[Blog/Posts/Por que o mundo se sente vazio.\|Por que o mundo se sente vazio.]]                                                   | #Vazio-Existencial#Sociedade |
+| [[Blog/Posts/A mudança como algo impossível em uma sociedade copista.\|A mudança como algo impossível em uma sociedade copista.]] | #Identidade #Sociedade       |
+| [[Blog/Posts/Teologia da Libertação\|Teologia da Libertação]]                                                                     | #religão                     |
+| [[Blog/Posts/A troca de prisões, do físico para o mental\|A troca de prisões, do físico para o mental]]                           | #Controle #Mental            |
+| [[Blog/Posts/Em mundo de pessoas vazias, uma rotina é o pior inimigo.\|Em mundo de pessoas vazias, uma rotina é o pior inimigo.]] | #Mental #Alienação           |
 
 
 </div></div>
