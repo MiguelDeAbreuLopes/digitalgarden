@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/estante/sem-titulo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/blog/estante/sem-titulo/","contentClasses":"img-grid","noteIcon":""}
 ---
 
 ![DSC_0372.jpg](/img/user/Blog/Media/DSC_0372.jpg)
