@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/blog/imagens/galeria-de-imagens/","noteIcon":""}
 ---
 
-# [[Blog/Imagens/Galeria\|Galeria]]
+# [[Galeria\|Galeria]]
 
 ---
 

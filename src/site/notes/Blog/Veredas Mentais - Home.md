@@ -50,7 +50,7 @@
 
 
 
-# [[Blog/Imagens/Galeria\|Galeria]]
+# [[Galeria\|Galeria]]
 
 ---
 
