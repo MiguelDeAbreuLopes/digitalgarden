@@ -5,7 +5,6 @@
 # [[Galeria\|Galeria]]
 
 ---
-
 ## Equipamento
 
 **Câmera:** Nikon 3100

@@ -12,14 +12,11 @@
 # Páginas
 ---
 ## [[Blog/Posts/Posts\|Posts]]
-\
-	
+
 ## [[Blog/Imagens/Galeria de Imagens\|Galeria de Imagens]]
-\
-	
+
 ## [[Blog/Sobre Mim\|Sobre Mim]]
-\
-	
+
 ---
 
 ## Contato
