@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/blog/veredas-mentais-home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-Claro! Vamos dar um toque mais refinado e atrativo à sua homepage:
-
 ---
 
 ## Olá, caro amigo
@@ -80,3 +78,5 @@ Para qualquer comentário, sugestão ou simplesmente para trocar ideias, sinta-s
 [veredasmentais.netlify.app](https://veredasmentais.netlify.app/)
 
 ---
+
+[[Blog/Teste\|Teste]]
