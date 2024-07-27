@@ -22,13 +22,13 @@ Veredas mentais são todos os caminhos que uma mente faz. Pois bem, aqui está t
 > [!NOTE] 📂 Páginas
 > 
 > 
-> ## 📝 [Posts](Posts.md)
+> ## 📝 [[Blog/Posts/Posts\|Posts]]
 > 
-> ## 📸 [Galeria](Galeria.md)
+> ## 📸 [[Blog/Imagens/Galeria\|Galeria]]
 > 
-> ## 📚 [Estante](Estante.md)
+> ## 📚 [[Blog/Estante/Estante\|Estante]]
 > 
-> ## 👋 [Sobre Mim](Sobre%20Mim.md)
+> ## 👋 [[Blog/Sobre Mim\|Sobre Mim]]
 > 
 
 ---
