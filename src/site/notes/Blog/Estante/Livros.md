@@ -29,5 +29,6 @@
 > 
 > - O Conde de Monte Cristo - Alexandre Dumas
 > - Cartas De Um Diabo Ao Seu Aprendiz - C.S. Lewis
+> - Como Entender a Mente - Geshe Kelsang Gyatso
 
 ---

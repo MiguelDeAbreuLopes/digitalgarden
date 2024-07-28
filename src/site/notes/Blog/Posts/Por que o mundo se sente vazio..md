@@ -30,5 +30,5 @@ A estrutura mentirosa da nossa sociedade explica por que tantas pessoas se sente
 
 ### <font color="#548dd4">Relacionados</font>
 1. [[Blog/Posts/A mudança como algo impossível em uma sociedade copista.\|A mudança como algo impossível em uma sociedade copista.]]
-2. [[Blog/Posts/Em mundo de pessoas vazias, uma rotina é o pior inimigo.\|Em mundo de pessoas vazias, uma rotina é o pior inimigo.]]
+2. [[Blog/Posts/Em um mundo de pessoas vazias, uma rotina é o pior inimigo.\|Em um mundo de pessoas vazias, uma rotina é o pior inimigo.]]
 3. 

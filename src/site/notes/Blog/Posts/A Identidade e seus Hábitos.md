@@ -35,4 +35,4 @@ A expressão "nascer de novo" é profundamente apropriada para resumir este conc
 ---
 
 ### <font color="#548dd4">Relacionados</font>
-1. [[Blog/Posts/Em mundo de pessoas vazias, uma rotina é o pior inimigo.\|Em mundo de pessoas vazias, uma rotina é o pior inimigo.]]
+1. [[Blog/Posts/Em um mundo de pessoas vazias, uma rotina é o pior inimigo.\|Em um mundo de pessoas vazias, uma rotina é o pior inimigo.]]

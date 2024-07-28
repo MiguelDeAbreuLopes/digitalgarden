@@ -33,7 +33,8 @@ A troca de prisões do físico para o mental sugere que, embora as formas de con
 ---
 
 ### <font color="#548dd4">Relacionados</font>
-1. 
+1. [[Blog/Posts/A Mente de Acordo Com o Budismo - Uma Breve Descrição\|A Mente de Acordo Com o Budismo - Uma Breve Descrição]]
+2. [[Blog/Posts/Em um mundo de pessoas vazias, uma rotina é o pior inimigo.\|Em um mundo de pessoas vazias, uma rotina é o pior inimigo.]]
 
 
 

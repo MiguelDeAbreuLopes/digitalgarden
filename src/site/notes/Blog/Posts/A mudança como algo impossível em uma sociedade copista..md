@@ -33,3 +33,4 @@ Mudar é se reinventar pessoalmente de acordo com pensamentos alheios ou própri
 
 ### <font color="#548dd4">Relacionados</font>
 1. [[Blog/Posts/Por que o mundo se sente vazio.\|Por que o mundo se sente vazio.]]
+2. [[Blog/Posts/A Massa de Manobra na Democracia\|A Massa de Manobra na Democracia]]
