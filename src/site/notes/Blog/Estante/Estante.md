@@ -16,7 +16,7 @@ Aqui, eu guardo os livros que li e as frases inspiradoras que encontrei por aí.
 
 Explore a lista dos livros que já li e descubra novas leituras:
 
-- [Livros](Livros.md)
+- [[Blog/Estante/Livros\|Livros]]
 
 ---
 
@@ -24,6 +24,6 @@ Explore a lista dos livros que já li e descubra novas leituras:
 
 Confira algumas das frases mais inspiradoras que encontrei ao longo do tempo:
 
-- [Frases](Frases.md)
+- [[Blog/Estante/Frases\|Frases]]
 
 ---
