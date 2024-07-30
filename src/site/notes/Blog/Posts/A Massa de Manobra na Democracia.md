@@ -12,8 +12,6 @@
 # **A Massa de Manobra na Democracia**
 <font color="#7f7f7f">domingo, 13 de julho de 2024 às 22:43</font>
 
-Tag: #Democracia #Cultura
-
 ---
 
 *Há algo de demagogo com que sempre os gregos tiveram medo da democracia.*

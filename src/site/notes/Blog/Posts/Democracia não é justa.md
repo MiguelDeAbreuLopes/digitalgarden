@@ -12,8 +12,6 @@
 # Democracia não é justa
 <font color="#7f7f7f">quinta-feira, 18 de julho de 2024 às 21:46</font>
 
-Tag: #Justiça #Democracia
-
 ---
 
 *Com a Revolução Francesa, surgiu a ideia de democracia popular, mas a realidade mostra desigualdades na participação política devido a recursos desiguais e manipulação. John Stuart Mill defendeu eleitores educados para uma democracia saudável.*

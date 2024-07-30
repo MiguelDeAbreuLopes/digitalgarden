@@ -12,8 +12,6 @@
 # A mudança como algo impossível em uma sociedade copista.
 <font color="#7f7f7f">quarta-feira, 4 de julho de 2024 às 15:31</font>
 
-Tag: #Identidade #Sociedade
-
 ---
 
 *A mudança na sociedade contemporânea imputa já uma impropriedade vocabular. Nós indivíduos de um corpo social aparentemente líquido e mutável, nos vemos em um dilema: Seguir nossas vontades e objetivos singulares e pessoais ou se anestesiar em águas espessas dos desejos mundanos da sociedade.* 

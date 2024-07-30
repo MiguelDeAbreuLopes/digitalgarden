@@ -4,25 +4,23 @@
 
 ---
 
-![Estante de Livros](/img/user/Blog/Media/bookshelf.webp)
+## Minha Estante
 
-## Bem-vindo à Minha Estante
-
-Aqui, eu guardo os livros que li e as frases inspiradoras que encontrei por aí.
+Aqui guardo os livros que li e frases inspiradoras.
 
 ---
 
-### 📚 Livros
+### Livros
 
-Explore a lista dos livros que já li e descubra novas leituras:
+Explore a lista dos livros que já li:
 
 - [[Blog/Estante/Livros\|Livros]]
 
 ---
 
-### 💬 Frases
+### Frases
 
-Confira algumas das frases mais inspiradoras que encontrei ao longo do tempo:
+Confira algumas frases:
 
 - [[Blog/Estante/Frases\|Frases]]
 

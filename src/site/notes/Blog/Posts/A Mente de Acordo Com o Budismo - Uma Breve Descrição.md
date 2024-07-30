@@ -11,8 +11,6 @@
 # A Mente de Acordo com o Budismo - Uma Breve Descrição
 <font color="#7f7f7f">sábado, 27 de julho de 2024 às 23:46</font>
 
-Tag: #religião #Identidade 
-
 ---
 
 *Conhecer a nós mesmos é um grande desafio. Explorar o que outras culturas já disseram é um grande passo para conhecer o verdadeiro eu.*

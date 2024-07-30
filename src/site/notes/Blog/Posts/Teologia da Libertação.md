@@ -12,8 +12,6 @@
 # Teologia da Libertação
 <font color="#7f7f7f">quarta-feira, 3 de julho de 2024 às 21:14</font>
 
-Tag: #religião
-
 ---
 
 *A teologia da libertação e seus danos à igreja católica são profundos.*

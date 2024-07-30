@@ -12,8 +12,6 @@
 # A Sociedade Controla a Si Mesma.
 <font color="#7f7f7f">terça-feira, 16 de julho de 2024 às 15:40</font>
 
-Tag: #Sociedade #Controle
-
 ---
 
 *A internalização de ideologias sociais e a vergonha levam à conformidade coletiva. As redes sociais amplificam esse controle, moldando percepções e atitudes, reforçando o status quo e silenciando vozes dissidentes, restringindo a liberdade de pensamento e expressão.*

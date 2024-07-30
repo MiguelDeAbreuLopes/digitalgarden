@@ -12,8 +12,6 @@
 # A troca de prisões, do físico para o mental
 <font color="#7f7f7f">quarta-feira, 2 de julho de 2024 às 21:44</font>
 
-Tag: #Controle #Mental
-
 ---
 
 *A troca de prisões físicas por mentais reflete um controle social evoluído. Estresse, ansiedade e normas sociais limitam a liberdade tanto quanto a restrição física.*
