@@ -5,10 +5,11 @@
 ---
 # Veredas Mentais
 
-## Páginas
-
-- [[Blog/Posts/Posts\|Posts]] - Reflexões e análises sobre temas diversos
-- [[Blog/Estante/Estante\|Estante]] - Leituras e Frases
+> [!Info] Páginas
+>  
+> - [[Blog/Posts/Posts\|Posts]] - Reflexões e análises sobre temas diversos
+> - [[Blog/Estante/Estante\|Estante]] - Leituras e Frases
+> 
 
 ---
 
