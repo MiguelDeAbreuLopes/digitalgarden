@@ -2,12 +2,59 @@ body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    ***/
+
+    background-color: #121212; /* Cor de fundo escura para combinar com o tema */
+    color: #ffffff; /* Cor do texto branco */
+
+    .content {
+        font-size: 16px; /* Tamanho de fonte ligeiramente maior para melhor legibilidade */
+    }
+
+    h1 {
+        color: #ffffff; /* Cor dos títulos em branco */
+    }
+
+    a {
+        color: #ffffff; /* Cor dos links em branco */
+        text-decoration: none; /* Remove sublinhado dos links */
+    }
+
+    a:hover {
+        color: #bbbbbb; /* Cor dos links ao passar o mouse */
+        text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+    }
+
+    .menu a {
+        color: #ffffff; /* Cor dos links do menu em branco */
+    }
+
+    .menu a:hover {
+        color: #bbbbbb; /* Cor dos links do menu ao passar o mouse */
+    }
+
+    .sidebar {
+        background-color: #1c1c1c; /* Cor de fundo da barra lateral */
+        padding: 20px; /* Espaçamento interno */
+    }
+
+    .sidebar a {
+        color: #ffffff; /* Cor dos links da barra lateral em branco */
+    }
+
+    .sidebar a:hover {
+        color: #bbbbbb; /* Cor dos links da barra lateral ao passar o mouse */
+    }
+
+    .sidebar h2 {
+        color: #ffffff; /* Cor dos títulos da barra lateral em branco */
+    }
+
+    .contact-info a {
+        color: #ffffff; /* Cor dos links de contato em branco */
+    }
+
+    .contact-info a:hover {
+        color: #bbbbbb; /* Cor dos links de contato ao passar o mouse */
+    }
 }
