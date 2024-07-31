@@ -3,17 +3,17 @@
 ---
 
 ---
-# Veredas Mentais
+# **Veredas Mentais**
 
-> [!Info] Páginas
+> [!Info] **Páginas**
 >  
-> - [[Blog/Posts/Posts\|Posts]] - Reflexões e análises sobre temas diversos
-> - [[Blog/Estante/Estante\|Estante]] - Leituras e Frases
+> **- [[Blog/Posts/Posts\|Posts]] - Reflexões e análises sobre temas diversos**
+> **- [[Blog/Estante/Estante\|Estante]] - Leituras e Frases**
 > 
 
 ---
 
-## Contato
+## **Contato**
 
 miguelablp@gmail.com
 
