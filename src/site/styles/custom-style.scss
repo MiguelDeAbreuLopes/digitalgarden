@@ -4,7 +4,8 @@ body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Fonte moderna e clean */
     margin: 0;
     padding: 0;
-    line-height: 1.6;
+    line-height: 1.8; /* Aumentar o espaçamento entre linhas */
+    font-size: 16px; /* Aumentar o tamanho do texto */
 }
 
 /* Estilo do cabeçalho */
@@ -19,6 +20,7 @@ body {
     color: #ffffff;
     margin: 0;
     transition: color 0.3s;
+    font-size: 2em; /* Aumentar o tamanho do título */
 }
 
 .header h1:hover {
@@ -29,13 +31,12 @@ body {
 a {
     color: #ffffff;
     text-decoration: none;
-    border-bottom: 1px solid #ffffff;
-    transition: color 0.3s, border-color 0.3s;
+    border-bottom: none; /* Remover o sublinhado dos links */
+    transition: color 0.3s;
 }
 
 a:hover {
     color: #aaaaaa; /* Cor dos links ao passar o mouse */
-    border-color: #aaaaaa;
 }
 
 /* Estilo da barra lateral */
@@ -56,10 +57,12 @@ a:hover {
 .sidebar h2 {
     color: #ffffff;
     margin-top: 0;
+    font-size: 1.5em; /* Aumentar o tamanho do título da barra lateral */
 }
 
 .sidebar a {
     color: #ffffff;
+    font-size: 1.2em; /* Aumentar o tamanho da fonte dos links na barra lateral */
 }
 
 .sidebar a:hover {
@@ -69,6 +72,7 @@ a:hover {
 /* Estilo das informações de contato */
 .contact-info a {
     color: #ffffff;
+    font-size: 1.2em; /* Aumentar o tamanho da fonte dos links de contato */
 }
 
 .contact-info a:hover {
@@ -80,6 +84,7 @@ a:hover {
     padding: 20px;
     margin: 0 auto;
     max-width: 800px;
+    font-size: 1.2em; /* Aumentar o tamanho da fonte do conteúdo */
 }
 
 .card {
@@ -98,6 +103,7 @@ a:hover {
 
 .card h3 {
     margin-top: 0;
+    font-size: 1.5em; /* Aumentar o tamanho do título do card */
 }
 
 /* Estilo do rodapé */
@@ -112,6 +118,7 @@ a:hover {
 .footer p {
     margin: 0;
     color: #aaaaaa;
+    font-size: 1em; /* Aumentar o tamanho da fonte do texto do rodapé */
 }
 
 /* Responsividade */
