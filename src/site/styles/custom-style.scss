@@ -4,57 +4,104 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
     ***/
 
-    background-color: #121212; /* Cor de fundo escura para combinar com o tema */
+    background-color: #121212; /* Cor de fundo escura */
     color: #ffffff; /* Cor do texto branco */
+    font-family: 'Arial', sans-serif; /* Fonte moderna e clean */
+    line-height: 1.6; /* Altura da linha para melhor legibilidade */
+    margin: 0;
+    padding: 0;
+}
 
-    .content {
-        font-size: 16px; /* Tamanho de fonte ligeiramente maior para melhor legibilidade */
-    }
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff; /* Cor dos títulos em branco */
+    margin-bottom: 1rem;
+}
 
-    h1 {
-        color: #ffffff; /* Cor dos títulos em branco */
-    }
+a {
+    color: #ffffff; /* Cor dos links em branco */
+    text-decoration: none; /* Remove sublinhado dos links */
+    border-bottom: 1px solid #ffffff; /* Adiciona sublinhado com borda */
+    transition: color 0.3s, border-color 0.3s; /* Transição suave para efeitos */
+}
 
-    a {
-        color: #ffffff; /* Cor dos links em branco */
-        text-decoration: none; /* Remove sublinhado dos links */
-    }
+a:hover {
+    color: #bbbbbb; /* Cor dos links ao passar o mouse */
+    border-color: #bbbbbb; /* Cor da borda ao passar o mouse */
+}
 
-    a:hover {
-        color: #bbbbbb; /* Cor dos links ao passar o mouse */
-        text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
-    }
+.menu a {
+    color: #ffffff; /* Cor dos links do menu em branco */
+}
 
-    .menu a {
-        color: #ffffff; /* Cor dos links do menu em branco */
-    }
+.menu a:hover {
+    color: #bbbbbb; /* Cor dos links do menu ao passar o mouse */
+}
 
-    .menu a:hover {
-        color: #bbbbbb; /* Cor dos links do menu ao passar o mouse */
-    }
+.sidebar {
+    background-color: #1c1c1c; /* Cor de fundo da barra lateral */
+    padding: 20px; /* Espaçamento interno */
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
+}
 
-    .sidebar {
-        background-color: #1c1c1c; /* Cor de fundo da barra lateral */
-        padding: 20px; /* Espaçamento interno */
-    }
+.sidebar a {
+    color: #ffffff; /* Cor dos links da barra lateral em branco */
+}
 
-    .sidebar a {
-        color: #ffffff; /* Cor dos links da barra lateral em branco */
-    }
+.sidebar a:hover {
+    color: #bbbbbb; /* Cor dos links da barra lateral ao passar o mouse */
+}
 
-    .sidebar a:hover {
-        color: #bbbbbb; /* Cor dos links da barra lateral ao passar o mouse */
-    }
+.sidebar h2 {
+    color: #ffffff; /* Cor dos títulos da barra lateral em branco */
+}
 
-    .sidebar h2 {
-        color: #ffffff; /* Cor dos títulos da barra lateral em branco */
-    }
+.contact-info a {
+    color: #ffffff; /* Cor dos links de contato em branco */
+}
 
-    .contact-info a {
-        color: #ffffff; /* Cor dos links de contato em branco */
-    }
+.contact-info a:hover {
+    color: #bbbbbb; /* Cor dos links de contato ao passar o mouse */
+}
 
-    .contact-info a:hover {
-        color: #bbbbbb; /* Cor dos links de contato ao passar o mouse */
-    }
+.content {
+    padding: 20px; /* Espaçamento interno */
+    margin: 0 auto; /* Centraliza o conteúdo */
+    max-width: 800px; /* Limita a largura máxima do conteúdo */
+}
+
+.card {
+    background-color: #1c1c1c; /* Cor de fundo dos cards */
+    padding: 20px; /* Espaçamento interno dos cards */
+    border-radius: 10px; /* Bordas arredondadas dos cards */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave dos cards */
+    margin-bottom: 20px; /* Espaçamento entre os cards */
+}
+
+.card h3 {
+    margin-top: 0; /* Remove margem superior dos títulos dos cards */
+}
+
+.header {
+    padding: 10px 0; /* Espaçamento interno do cabeçalho */
+    text-align: center; /* Alinha o texto ao centro */
+    background-color: #1c1c1c; /* Cor de fundo do cabeçalho */
+    border-bottom: 1px solid #ffffff; /* Borda inferior do cabeçalho */
+    margin-bottom: 20px; /* Espaçamento inferior do cabeçalho */
+}
+
+.header h1 {
+    margin: 0; /* Remove margens do título do cabeçalho */
+}
+
+.footer {
+    padding: 10px 0; /* Espaçamento interno do rodapé */
+    text-align: center; /* Alinha o texto ao centro */
+    background-color: #1c1c1c; /* Cor de fundo do rodapé */
+    border-top: 1px solid #ffffff; /* Borda superior do rodapé */
+    margin-top: 20px; /* Espaçamento superior do rodapé */
+}
+
+.footer p {
+    margin: 0; /* Remove margens do parágrafo do rodapé */
 }
