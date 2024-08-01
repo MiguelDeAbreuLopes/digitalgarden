@@ -10,8 +10,10 @@ body {
 
 /* Estilo do cabeçalho */
 .header {
-    text-align: center;
-    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
     background-color: #1f1f1f; /* Cor do fundo do cabeçalho */
     border-bottom: 1px solid #333; /* Borda inferior */
 }
@@ -19,12 +21,42 @@ body {
 .header h1 {
     color: #ffffff;
     margin: 0;
-    transition: color 0.3s;
     font-size: 2em; /* Aumentar o tamanho do título */
+    transition: color 0.3s;
 }
 
 .header h1:hover {
     color: #aaaaaa; /* Cor do título ao passar o mouse */
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    background-color: #333;
+    border-radius: 25px;
+    padding: 5px 15px;
+}
+
+.search-bar input {
+    background: none;
+    border: none;
+    outline: none;
+    color: #ffffff;
+    font-size: 1em;
+    padding: 5px;
+}
+
+.search-bar button {
+    background: none;
+    border: none;
+    outline: none;
+    color: #ffffff;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.search-bar button:hover {
+    color: #aaaaaa; /* Cor do botão de pesquisa ao passar o mouse */
 }
 
 /* Estilo dos links */
@@ -123,11 +155,21 @@ a:hover {
 
 /* Responsividade */
 @media (max-width: 600px) {
-    .sidebar, .content {
+    .header, .footer {
         padding: 10px;
     }
 
-    .header, .footer {
-        padding: 10px 0;
+    .search-bar {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .search-bar input, .search-bar button {
+        width: 100%;
+        margin-top: 5px;
+    }
+
+    .sidebar, .content {
+        padding: 10px;
     }
 }
