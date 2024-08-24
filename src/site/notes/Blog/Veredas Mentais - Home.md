@@ -4,4 +4,4 @@
 
 # Mudei o Site para :
 
-https://aperturemind.framer.website/
+https://polymathes.framer.wiki/
